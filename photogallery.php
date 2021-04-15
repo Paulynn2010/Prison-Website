@@ -1,0 +1,4 @@
+
+
+<?php
+    require("blognav.php")?>
